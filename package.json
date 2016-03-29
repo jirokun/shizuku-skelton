@@ -20,7 +20,8 @@
     "jquery.panzoom": "^2.0.6",
     "jsplumb": "^2.0.7",
     "moment": "^2.11.2",
-    "pg": "^4.5.1"
+    "pg": "^4.5.1",
+    "shizuku": "0.0.4"
   },
   "devDependencies": {
     "babel-cli": "^6.6.5",
